@@ -39,6 +39,6 @@ It also works if you don't start from 0 (you can add an offset). For a more gene
 
 Let $\theta = e^{\frac{2 i \pi }{N}}$, so $\theta^N = 1$.
 
-The geometric series worth : $ 1 + \theta + \theta^2 + \ldots + \theta^{N-1} = \frac{\theta^N-1}{\theta-1} $ , so 0
+The geometric series worth : $1 + \theta + \theta^2 + \ldots + \theta^{N-1} = \frac{\theta^N-1}{\theta-1}$ , so 0
 
 If the sum works in complex space, it also works on real space (projection, so with cosinus)
